@@ -1,0 +1,38 @@
+footer {
+    background-color: #a8d2ff;
+    color: #22015e;
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+footer h2 {
+    color: #22015e;
+    font-size: 1.8em;
+    margin-bottom: 15px;
+}
+
+footer p {
+    color: #022b58;
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+input, textarea {
+    width: 400px;   
+    padding: 5px;  
+    margin-bottom: 1px;
+}
+
+textarea {
+    height: 80px;  
+}
+button{
+        background-color: #22015e;
+        color: #ffffff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        font-size: 1em;
+        cursor: pointer;
+}
