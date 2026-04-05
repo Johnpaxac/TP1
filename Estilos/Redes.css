@@ -18,29 +18,29 @@
 }
 
 #Redes-Sociales .cuadro {
-    background-color: #ffffff;
+    background-color: var(--card-bg);
     padding: 25px;
     border-radius: 10px;
-    border: 1px solid #22015e;
+    border: 1px solid var(--accent);
 }
 
 
 #Redes-Sociales .cuadro h3 {
-    color: #22015e;
+    color: var(--accent);
     font-size: 1.3em;
     margin-bottom: 12px;
     font-weight: bold;
 }
 
 #Redes-Sociales .cuadro p {
-    color: #022b58;
+    color: var(--text-secondary);
     line-height: 1.6;
     margin-bottom: 15px;
 }
 
 #Redes-Sociales .btn-link {
     display: inline-block;
-    background-color: #22015e;
+    background-color: var(--accent);
     color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;

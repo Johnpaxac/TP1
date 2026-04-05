@@ -1,6 +1,6 @@
 footer {
-    background-color: #a8d2ff;
-    color: #22015e;
+    background-color: var(--main-bg);
+    color: var(--accent);
     padding: 40px 20px;
     text-align: center;
     margin-top: 40px;
@@ -8,13 +8,13 @@ footer {
 }
 
 footer h2 {
-    color: #22015e;
+    color: var(--accent);
     font-size: 1.8em;
     margin-bottom: 15px;
 }
 
 footer p {
-    color: #022b58;
+    color: var(--text-secondary);
     margin: 10px 0;
     font-size: 1.1em;
 }
@@ -28,7 +28,7 @@ textarea {
     height: 80px;  
 }
 button{
-        background-color: #22015e;
+        background-color: var(--accent);
         color: #ffffff;
         padding: 10px 20px;
         border: none;

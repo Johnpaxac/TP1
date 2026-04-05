@@ -18,21 +18,21 @@
 }
 
 #Proyectos .cuadro {
-    background-color: #ffffff;
+    background-color: var(--card-bg);
     padding: 25px;
     border-radius: 10px;
-    border: 1px solid #22015e;
+    border: 1px solid var(--accent);
 }
 
 
 #Proyectos .cuadro h3 {
-    color: #22015e;
+    color: var(--accent);
     font-size: 1.3em;
     margin-bottom: 12px;
     font-weight: bold;
 }
 
 #Proyectos .cuadro p {
-    color: #022b58;
+    color: var(--text-secondary);
     line-height: 1.6;
 }
